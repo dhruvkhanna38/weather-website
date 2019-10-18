@@ -1,0 +1,1 @@
+A weather app that provides temperature details and weather summary of the location entered.
